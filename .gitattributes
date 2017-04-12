@@ -1,0 +1,2 @@
+genres_utf8.list.bz2 filter=lfs diff=lfs merge=lfs -text
+plot_utf8.list.bz2 filter=lfs diff=lfs merge=lfs -text
